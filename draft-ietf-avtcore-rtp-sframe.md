@@ -338,7 +338,7 @@ Mux Category: NORMAL
 
 This section provides a set of test vectors that implementations can use to
 verify that they correctly implement SFrame per SSRC stream key derivation
-with the all the known SFrame cipher suites registered.
+with registered SFrame cipher suites.
 
 All values are either numeric or byte strings.  Numeric values are represented
 as hex values, prefixed with `0x`.  Byte strings are represented in hex
